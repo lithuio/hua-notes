@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Hua Notes',
   description: 'Personal knowledge base for study, work, creativity, resources, and life',
-  base: '/',
+  base: '/hua-notes/',
   srcDir: '.',
 
   themeConfig: {
