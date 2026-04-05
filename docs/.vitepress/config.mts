@@ -25,6 +25,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '学科笔记', link: '/learning/discipline' },
+            { text: 'C++基础与算法总结', link: '/learning/cpp-algorithms' },
             { text: '课程/培训笔记', link: '/learning/course-notes' },
             { text: '实验/练习', link: '/learning/experiments' }
           ]
@@ -47,6 +48,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '想法收集', link: '/creative/ideas' },
+            { text: '灵感收集页', link: '/creative/inspiration-pool' },
             { text: '总结/反思', link: '/creative/reflections' },
             { text: '写作/草稿', link: '/creative/drafts' }
           ]
@@ -58,6 +60,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '文献/论文', link: '/resources/papers' },
+            { text: '多模态论文思路总结', link: '/resources/multimodal-papers' },
             { text: '图像/多媒体资料', link: '/resources/media' },
             { text: '工具/参考', link: '/resources/tools' }
           ]
