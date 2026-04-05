@@ -8,7 +8,7 @@ title: "Hua Notes - 使用指南"
 
 个人知识库网站，包含学习、工作、思维、资料和生活五个主题的笔记整理平台。
 
-- 📖 **在线访问**：[https://YOUR_USERNAME.github.io/YOUR_REPO_NAME](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME)
+- 📖 **在线访问**：[https://lithuio.github.io/hua-notes/](https://lithuio.github.io/hua-notes/)
 - 🚀 **一键部署**：支持自动部署到 GitHub Pages
 - 📝 **易于维护**：基于 VitePress，Markdown 格式
 
